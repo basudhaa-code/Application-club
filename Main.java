@@ -9,7 +9,7 @@ public class Main {
 
         int tilesN = (int)Math.ceil((double)n / a);
         int tilesM = (int)Math.ceil((double)m / a);
-System.out.println(tilesN * tilesM);
+        System.out.println(tilesN * tilesM);
 
     }
     
